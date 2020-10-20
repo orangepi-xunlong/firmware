@@ -1,2 +1,2 @@
 # firmware
-Armbian specific firmware
+Orange Pi specific firmware
