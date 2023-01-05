@@ -142,9 +142,9 @@ pa5ga1=-207,5022,-635,-168,5741,-695,-169,5544,-687,-182,5435,-687
 
 
 # Max power and offsets
-maxp2ga0=88
-maxp2ga1=88
-maxp5ga0=68,68,68,68
+maxp2ga0=86
+maxp2ga1=86
+maxp5ga0=68,68,64,64
 maxp5ga1=69,69,66,66
 subband5gver=0x4
 paparambwver=3
